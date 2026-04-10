@@ -8,9 +8,57 @@
 
 ---
 
+## Note from the Creator
+
+Hey everyone — I’m Alden.
+
+I’m a proud husband and an even prouder dad to my son, Atlas (as of April 2026 — hopefully more kids to come). At the core, I’m building Open Flourish for him. My goal is simple: as he grows up, I want there to be a world filled with thoughtful humans and powerful tools that help him become everything he’s capable of becoming.
+
+While this started as something deeply personal, it’s meant for everyone. I want this to be as accessible, practical, and useful as possible — something anyone can pick up and use to improve their life or help someone they care about.
+
+There’s an idea I really believe in: a rising tide lifts all boats. My hope is that this project contributes, even in a small way, to that rising tide.
+
+So if you’re here, I encourage you to use this platform selfishly — build things that would help you, your family, and your friends. Because when we all do that, those “selfish” contributions compound into something incredibly selfless — tools that help strangers across the world live better lives.
+
+Why this matters:
+
+We’re entering a world where AI and automation will dramatically increase efficiency. That’s a good thing — it’s what humans have always done: solve problems, improve systems, and build better tools.
+
+But there’s a real challenge:
+our economic systems don’t naturally guarantee that everyone benefits from that efficiency.
+
+Businesses are designed to optimize — to produce more with less. That’s not wrong — it’s one of the reasons we’ve achieved so much progress as a society. The reality is, everything we have today exists because of that drive toward improvement.
+
+This isn’t anti-capitalism.
+It’s actually the opposite.
+
+I believe in the power of free markets and human ingenuity. But I also believe that as AI accelerates that progress, we need to be intentional about making sure more people can share in the upside.
+
+What Open Flourish is trying to do:
+
+This project is a small step toward that future.
+
+A world where:
+
+People have access to tools that help them grow
+AI supports human flourishing — not just efficiency
+And individuals are guided toward better health, relationships, purpose, and much more.
+
+I’m optimistic about what AI can do for humanity — but I also think we need to be incredibly thoughtful and intentional in how we shape it. 
+
+One of my favorite scenes from The Dark Knight Rises is when Bruce climbs out of the pit as people chant “rise” — and to me, that’s the vision here: those who are strong enough to climb out of the pits they find themselves in turn back and throw the rope down to help others rise too.
+
+If this project helps even one person improve their life — or helps someone build something that helps thousands — then it’s worth it.
+
+If you’re here, I’m glad you are.
+
+Let’s build something meaningful together 🌸 
+
 ## What is OpenFlourish?
 
-OpenFlourish is a community-driven collection of AI agents and tools designed to support human flourishing across **Maslow's 8 levels of needs**. Each agent targets a specific dimension of well-being, helping users grow from basic needs to self-actualization and beyond.
+OpenFlourish is a community-driven collection of AI agents and tools designed to support human flourishing across **Maslow's 8 levels of needs**. Each agent targets a specific dimension of well-being, helping users grow from basic needs to self-actualization and beyond. 
+
+While Maslow’s hierarchy isn’t perfect and certainly has its flaws, I believe it provides a powerful and practical framework—offering enough structure to help people grow in a balanced way and make meaningful, measurable progress toward a more fulfilling life.
 
 ### The Vision
 
@@ -38,6 +86,8 @@ Start by understanding where you are on your flourishing journey:
 1. Open `assessment.html` in your browser
 2. Answer questions across all 8 dimensions
 3. Get personalized agent recommendations based on your results
+4. Connect with and contribute to the community (push those belonging and transcendence scores up)
+5. Repeat the assessment to see how you have progressed (up to you how frequent but I would recommend monthly or quarterly)
 
 ### Use an Agent
 
